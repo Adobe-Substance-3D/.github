@@ -1,4 +1,4 @@
-# Adobe Substance 3D Design
+# Adobe Substance 3D Designer
 
 Adobe Substance 3D brings together specialized creative applications for developing 3D materials, texturing models, producing digital assets, and composing scenes for visualization. Its tools support workflows ranging from procedural surface design to detailed model painting and product presentation.
 
